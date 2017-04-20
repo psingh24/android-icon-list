@@ -1,0 +1,36 @@
+{
+  "name": "android-icon-list",
+  "version": "0.0.0",
+  "description": "List of the Android launcher icons",
+  "license": "MIT",
+  "repository": "SamVerschueren/android-icon-list",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "icons"
+  ],
+  "keywords": [
+    "android",
+    "application",
+    "launcher",
+    "icons",
+    "mipmap",
+    "list",
+    "data",
+    "apk"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
