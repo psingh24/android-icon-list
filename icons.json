@@ -1,6 +1,6 @@
 [
 	{
-		"file": "mipmap-ldpi/launcher_foreground.png",
+		"file": "mipmap-ldpi/ic_launcher.png",
 		"density": "ldpi",
 		"dimension": 36
 	},
@@ -10,7 +10,7 @@
 		"dimension": 36
 	},
 	{
-		"file": "mipmap-mdpi/launcher_foreground.png",
+		"file": "mipmap-mdpi/ic_launcher.png",
 		"density": "mdpi",
 		"dimension": 48
 	},
@@ -20,7 +20,7 @@
 		"dimension": 48
 	},
 	{
-		"file": "mipmap-hdpi/launcher_foreground.png",
+		"file": "mipmap-hdpi/ic_launcher.png",
 		"density": "hdpi",
 		"dimension": 72
 	},
@@ -30,7 +30,7 @@
 		"dimension": 72
 	},
 	{
-		"file": "mipmap-xhdpi/launcher_foreground.png",
+		"file": "mipmap-xhdpi/ic_launcher.png",
 		"density": "xhdpi",
 		"dimension": 96
 	},
@@ -40,7 +40,7 @@
 		"dimension": 96
 	},
 	{
-		"file": "mipmap-xxhdpi/launcher_foreground.png",
+		"file": "mipmap-xxhdpi/ic_launcher.png",
 		"density": "xxhdpi",
 		"dimension": 144
 	},
@@ -50,7 +50,12 @@
 		"dimension": 144
 	},
 	{
-		"file": "mipmap-xxxhdpi/launcher_foreground.png",
+		"file": "mipmap-xxhdpi/ic_notification.png",
+		"density": "xxhdpi",
+		"dimension": 144
+	},
+	{
+		"file": "mipmap-xxxhdpi/ic_launcher.png",
 		"density": "xxxhdpi",
 		"dimension": 192
 	},
