@@ -73,5 +73,10 @@
 		"file": "mipmap-xxxhdpi/icon.png",
 		"density": "xxxhdpi",
 		"dimension": 192
+	},
+	{
+		"file": "mipmap-xxxhdpi/launcher_foreground.png",
+		"density": "xxxhdpi",
+		"dimension": 192
 	}
 ]
