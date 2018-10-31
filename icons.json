@@ -1,25 +1,5 @@
 [
 	{
-		"file": "mipmap-ldpi/ic_launcher.png",
-		"density": "ldpi",
-		"dimension": 18
-	},
-	{
-		"file": "mipmap-mdpi/ic_launcher.png",
-		"density": "mdpi",
-		"dimension": 24
-	},
-	{
-		"file": "mipmap-hdpi/ic_launcher.png",
-		"density": "hdpi",
-		"dimension": 36
-	},
-	{
-		"file": "mipmap-xhdpi/ic_launcher.png",
-		"density": "xhdpi",
-		"dimension": 48
-	},
-	{
 		"file": "mipmap-ldpi/icon.png",
 		"density": "ldpi",
 		"dimension": 36
